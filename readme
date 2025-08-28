@@ -1,0 +1,11 @@
+What are semantic tags?
+Semantic tags
+header tag
+main
+footers
+----------------------------------------
+non-semantics
+<div>
+<span>
+----------------------------------------
+<iframe> --> used when we have to insert/use website in website
