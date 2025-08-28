@@ -1,11 +1,23 @@
-What are semantic tags?
-Semantic tags
-header tag
-main
-footers
-----------------------------------------
-non-semantics
-<div>
-<span>
-----------------------------------------
-<iframe> --> used when we have to insert/use website in website
+Setup
+1. html file
+2. css file
+3. write boiler plate code for both.
+4. Link both the files => <link>
+
+Topics:
+- Height and width
+- Color = text color and backgroud color
+
+- id and class
+
+Topics: 
+Units: px % vw vh em rem 
+
+-> pixel: small visible resolution/smallest     part of picture is known as pixel.
+more the pixel better the picture quality.
+
+-> vw = view put width | vh = viw put height
+
+vw and vh | %
+=> "vw and vh always takes screen size"
+"% takes size from parent div"

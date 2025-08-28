@@ -1,0 +1,41 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    color: red;
+}
+
+
+/* #parent{ */
+    /* height: 50vh; */
+    /* width: 50vw; */
+    /* background-color: aqua; */
+/* } */
+/*  */
+/* #child { */
+    /* height : 70vh; */
+    /* width: 70vw; */
+    /* background-color: yellow; */
+/* } */
+
+/* 1 em = 30px  em = empherical */
+/* 2 em = 60px; */
+/* em depends on the font-size of that particular element */
+
+#box1 {
+    font-size: 50px; /* 1 em = 50px */
+    height: 2em; /* 2 em = 100px */
+    width: 2em;
+    background-color: lightgreen;
+}
+
+
+
