@@ -1,0 +1,53 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+}
+
+h1{
+    margin: 20px;
+    font-family: Playfair Display;
+    font-size:3vw;
+    font-weight: 100;
+    /* text-decoration: overline; */
+    text-align: end; /*right|end left|start and centre*/
+    text-transform: lowercase;
+
+}
+
+
+/* #parent{ */
+    /* height: 50vh; */
+    /* width: 50vw; */
+    /* background-color: aqua; */
+/* } */
+/*  */
+/* #child { */
+    /* height : 70vh; */
+    /* width: 70vw; */
+    /* background-color: yellow; */
+/* } */
+
+/* 1 em = 30px  em = empherical */
+/* 2 em = 60px; */
+/* em depends on the font-size of that particular element */
+
+
+/* root empherical value */
+/* 1 rem = 60px */
+/* #box1 { */
+    /* font-size : 100px; */
+    /* height: 2rem; 2 em = 100px */
+    /* width: 2rem; */
+    /* background-color: lightgreen; */
+/* } */
+
+
+
+
+
