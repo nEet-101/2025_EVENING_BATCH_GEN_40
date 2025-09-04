@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height:100%;
+    width: 100%;
+}
+
+html {
+    height: 1300px;
+}
+
+/* #car1{
+    position: absolute;
+    height:100px;
+    width:100px;
+    background-color: red;
+}
+
+#car2{
+    height:100px;
+    width:80px;
+    background-color: rgb(81, 255, 0);
+}
+
+#car3{
+    height:100px;
+    width:105px;
+    background-color: rgb(255, 234, 0);
+} */
+
+/* #box{
+    position: fixed;
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+
+#cube {
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    background-color: green;
+    left: 50%
+}  */
+
+#box3{
+    margin: 20px;
+    height: 200px;
+    width: 200px;
+    background: url("https://plus.unsplash.com/premium_photo-1665311515537-42ce402ac432?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyOXx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+    background-position: center;
+}
