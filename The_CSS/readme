@@ -30,3 +30,18 @@ Inline
 Block
 Inline Block
 
+Display properties:-
+-> justify-content
+-> align-items
+
+
+Pseudo-elements:-
+::before
+::after
+::first-line
+::first-letter
+
+
+
+
+
